@@ -1,5 +1,5 @@
 ### Hi there 👋,
->I am **Mehrdad Ramezanpoor**, A junior ___frontend developer___.
+>I am **Mehrdad Ramezanpoor**, A  ___junior___ frontend developer.
 -----
 >I use these technologies for developing:
 ><ul>
