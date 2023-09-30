@@ -1,19 +1,22 @@
-### Hi there 👋
+### Hi there 👋,
+>I am **Mehrdad Ramezanpoor**, A junior ___frontend developer___.
+-----
+>I use these technologies for developing:
+><ul>
+>  <li>React JS</li>
+>  <li>Redux</li>
+>  <li>Typescript</li>
+>  <li>Tailwind</li>
+></ul>
+---
+#### My __SoftSkils__:
+><ul>
+>  <li>I am very enthusiastic to learn more</li>
+>  <li>Discipline means a lot to me</li>
+>  <li>Teamwork makes me improve</li>
+></ul>
 ---
 ![](https://github-readme-stats.vercel.app/api?username=MehrdadR-de)
 ---
 ![](https://github-readme-stats.vercel.app/api?username=MehrdadR-de&show_icons=true&theme=radical)
-<!--
-**MehrdadR-de/MehrdadR-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
