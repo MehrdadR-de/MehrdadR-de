@@ -8,7 +8,16 @@
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 
 ---
+><h4>Me as an obj:</h4>
+```javascript
+const Me = {
+  fullName: "Mehrdad Ramezanpoor",
+  pronouns: "He" | "Him",
+  langs: ["JavaScript", "Typescript", "HTML", "CSS"],
+};
+```
 
+---
 ><h4>I use these technologies for developing:</h4>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
