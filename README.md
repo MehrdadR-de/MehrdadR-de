@@ -15,7 +15,7 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  
  ---
-> <h4>My Softskils:</h4>
+> <h4>My Softskills:</h4>
 <ul>
   <li>I am very enthusiastic to learn more</li>
   <li>Discipline means a lot to me</li>
