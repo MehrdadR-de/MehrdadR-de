@@ -1,8 +1,7 @@
 <h3> Hi there 👋,</h3>
-
 >I am **Mehrdad Ramezanpoor**, A  ___junior___ frontend developer.
 
------
+---
 ><h4>I use these technologies for developing:</h4>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -35,7 +34,15 @@
 
 ---
 > <h4>Contact Me:</h4>
-<a href="https://scriptman.ir"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-website-96.png?raw=true"/></a>
-<a href="https://t.me/mehrdadr_de"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-telegram-96.png?raw=true"/></a>
-<a href="https://instagram.com/Mehrdadr.dev"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-instagram-96.png?raw=true"/></a>
-<a href="https://linkedin.com/in/mehrdad-ramezanpoor"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-linkedin-96.png?raw=true"/></a>
+<a href="https://scriptman.ir">
+  <img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-website-96.png?raw=true"/>
+</a>
+<a href="https://t.me/mehrdadr_de">
+  <img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-telegram-96.png?raw=true"/>
+</a>
+<a href="https://instagram.com/Mehrdadr.dev">
+  <img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-instagram-96.png?raw=true"/>
+</a>
+<a href="https://linkedin.com/in/mehrdad-ramezanpoor">
+  <img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-linkedin-96.png?raw=true"/>
+</a>
