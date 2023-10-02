@@ -2,7 +2,7 @@
 
 >I am **Mehrdad Ramezanpoor**, A  ___junior___ frontend developer.
 -----
->I use these technologies for developing:
+><h4>I use these technologies for developing:</h4>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,7 +14,8 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  
 ---
-> My **Softskils** :
+> <h4>My Softskils:</h4>
+
 <ul>
   <li>I am very enthusiastic to learn more</li>
   <li>Discipline means a lot to me</li>
@@ -22,6 +23,7 @@
 </ul>
 
 ---
+><h4>Lets see some stats</h4>
 
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api?username=MehrdadR-de&show_icons=true&theme=radical"/>
@@ -30,13 +32,13 @@
 
 ---
 
-<h3>My Trophies</h3>
+> <h4>My Trophies</h4>
 
 ![](https://github-profile-trophy.vercel.app/?username=MehrdadR-de&theme=onedark)
 
 ---
 
-> Contact Me
+> <h4>Contact Me</h4>
 
 <a href="https://scriptman.ir"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-website-96.png?raw=true"/></a>
 <a href="https://t.me/mehrdadr_de"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-telegram-96.png?raw=true"/></a>
