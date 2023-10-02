@@ -30,6 +30,12 @@
 
 ---
 
+<h3>My Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=MehrdadR-de&theme=onedark)
+
+---
+
 > Contact Me
 
 <a href="https://scriptman.ir"><img width="50px" hight="50px" src="https://github.com/MehrdadR-de/MehrdadR-de/blob/main/icons8-website-96.png?raw=true"/></a>
